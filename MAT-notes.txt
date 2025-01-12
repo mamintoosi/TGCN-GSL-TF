@@ -1,0 +1,9 @@
+
+https://pytorch-geometric-temporal.readthedocs.io/en/latest/_modules/torch_geometric_temporal/nn/recurrent/temporalgcn.html#TGCN
+
+https://colab.research.google.com/drive/132hNQ0voOtTVk3I4scbD3lgmPTQub0KR?usp=sharing
+
+# pip install torch-scatter -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
+# pip install torch-sparse -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
+# pip install torch-cluster -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
+# pip install torch-spline-conv -f https://data.pyg.org/whl/torch-2.5.0+cu124.html

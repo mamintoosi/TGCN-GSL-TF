@@ -50,7 +50,7 @@ adj_matrix = args.adjacency_matrix
 ###### load data ######
 data, adj = load_sz_data('sz')
 # Drop the first 11 days
-data = data.drop(data.index[:1056])
+# data = data.drop(data.index[:1056])
 
 W_est_file_name = f"est_adj/W_est_{data_name}_pre_len{pre_len}.npy"
 if 'gsl' in adj_matrix: # gsl or gsldist

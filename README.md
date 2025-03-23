@@ -4,7 +4,7 @@ This repository provides the implementation of the following paper:
 
 Amintoosi, M., 2024. Urban Traffic Prediction with Learning Based Graph Convolutional Networks, in:
 Proceedings of the 55th Annual Iranian Mathematics Conference, Ferdowsi University of Mashhad. pp.
-145–148. (In Persian)
+145–148. (In Persian), [PDF](https://www.dropbox.com/scl/fi/bxs0id6m1h2k01et5s28m/1403-AIMC55-GSL-for-Traffic-Prediction.pdf?rlkey=m5e8zapnk69d05jufbzkwz3zq&st=7f96lk7b&dl=0), [Slides](https://www.dropbox.com/scl/fi/vqc98ydh0gwuxuqob6v25/1403-AIMC55-GSL-for-Traffic-Prediction-Slides.pdf?rlkey=o3b0m5tzsaka8vmghe1p5afw3&e=1&st=rwdpfzza&dl=0)
 
 ## Overview
 
